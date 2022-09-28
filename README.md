@@ -1,4 +1,4 @@
-# Digikala Clothes Images Dataset
+# Digikala Clothes Image Dataset
 
 ## Introduction
 This dataset contains:
